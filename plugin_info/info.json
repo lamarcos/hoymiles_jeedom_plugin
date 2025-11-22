@@ -3,14 +3,14 @@
   "name": "Hoymiles",
   "description": "Plugin pour intégration Hoymiles avec MQTT - Surveillance de production solaire",
   "licence": "AGPL",
-  "author": "Your Name",
+  "author": "Lamarcos",
   "require": "4.0",
   "category": "energy",
   "hasDependency": true,
   "hasOwnDeamon": true,
   "maxDependancyInstallTime": 10,
-  "changelog": "https://github.com/yourrepo/jeedom-hoymiles/blob/master/docs/fr_FR/changelog.md",
-  "documentation": "https://github.com/yourrepo/jeedom-hoymiles/blob/master/docs/fr_FR/index.md",
+  "changelog": "https://github.com/lamarcos/hoymiles_jeedom_plugin/blob/main/docs/fr_FR/changelog.md",
+  "documentation": "https://github.com/lamarcos/hoymiles_jeedom_plugin/blob/main/docs/fr_FR/index.md",
   "link": {
     "forum": "https://community.jeedom.com/"
   },
